@@ -1,0 +1,112 @@
+﻿7/17 12:59:25.185 (2ba0)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Sun Jul 17 12:59:25 2016
+.
+
+7/17 12:59:25.199 (2ba0)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+7/17 14:44:55.634 (2ba0)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+7/18 15:51:28.906 (2e4c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Mon Jul 18 15:51:28 2016
+.
+
+7/18 15:51:28.916 (2e4c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+7/18 16:34:07.305 (2e4c)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+7/19 9:52:01.600 (1dec)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Tue Jul 19 09:52:01 2016
+.
+
+7/19 9:52:01.605 (1dec)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+7/19 10:50:38.684 (1dec)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+7/27 16:10:01.959 (1594)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Jul 27 16:10:01 2016
+.
+
+7/27 16:10:01.971 (1594)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+7/27 16:22:15.441 (1594)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+8/11 11:33:54.026 (222c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Thu Aug 11 11:33:53 2016
+.
+
+8/11 11:33:54.034 (222c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+8/11 15:45:07.611 (222c)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+8/18 9:06:04.584 (1bc8)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Thu Aug 18 09:06:04 2016
+.
+
+8/18 9:06:04.599 (1bc8)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+8/18 9:14:20.345 (1bc8)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+9/6 17:40:23.424 (914)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Tue Sep 06 17:40:23 2016
+.
+
+9/6 17:40:23.435 (914)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+9/6 17:50:01.018 (914)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+2/17 15:28:40.781 (cf8)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2017. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2017. All rights reserved.
+
+Started - Fri Feb 17 15:28:40 2017
+.
+
+2/17 15:28:40.789 (cf8)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+2/17 15:55:49.049 (cf8)  StarBurn:StarBurn_DownShut(): EXITing with success
+
